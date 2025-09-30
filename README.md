@@ -7,7 +7,7 @@ The API accepts new leads, stores them in the database, and the worker enriches 
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/lead-service.git
+git clone https://github.com/sobrattt/test_task
 cd lead-service
 
 2. Make sure .env file is present in the root directory (it is included in the repo).
